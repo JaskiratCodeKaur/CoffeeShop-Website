@@ -1,0 +1,324 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
+	"version": 2,
+	"patterns": [
+		"three-columns-of-services",
+		"clients-section"
+	],
+	"settings": {
+		"appearanceTools": true,
+		"color": {
+			"defaultDuotone": false,
+			"defaultPalette": false,
+			"defaultGradients": false,
+			"duotone": [
+				{
+					"colors": ["#333333", "#FFFFFF"],
+					"slug": "duotone-1",
+					"name": "Dark Gray and White"
+				},
+				{
+					"colors": ["#4A4A4A", "#E0C2A5"],
+					"slug": "duotone-2",
+					"name": "Dark Gray and Light Sandstone"
+				},
+				{
+					"colors": ["#2A2A2A", "#FF4C4C"],
+					"slug": "duotone-3",
+					"name": "Dark Gray and Bright Red"
+				},
+				{
+					"colors": ["#2A2A2A", "#5BBF85"],
+					"slug": "duotone-4",
+					"name": "Dark Gray and Green"
+				},
+				{
+					"colors": ["#2A2A2A", "#8DA8D1"],
+					"slug": "duotone-5",
+					"name": "Dark Gray and Soft Blue"
+				}
+			],
+			
+			"gradients": [
+				{
+					"slug": "gradient-coffee-light",
+					"gradient": "linear-gradient(to bottom, #D6CDAF 0%, #F9F9F9 100%)",
+					"name": "Light Coffee to White"
+				},
+				{
+					"slug": "gradient-coffee-dark",
+					"gradient": "linear-gradient(to bottom, #8B5B29 0%, #F9F9F9 100%)",
+					"name": "Dark Coffee Brown to White"
+				},
+				{
+					"slug": "gradient-mocha",
+					"gradient": "linear-gradient(to bottom, #C6B09E 0%, #F9F9F9 100%)",
+					"name": "Mocha Cream to White"
+				},
+				{
+					"slug": "gradient-caramel",
+					"gradient": "linear-gradient(to bottom, #C89F6D 0%, #F9F9F9 100%)",
+					"name": "Caramel to White"
+				},
+				{
+					"slug": "gradient-espresso",
+					"gradient": "linear-gradient(to bottom, #4B3C2A 0%, #F9F9F9 100%)",
+					"name": "Espresso Dark to White"
+				},
+				{
+					"slug": "gradient-cream",
+					"gradient": "linear-gradient(to bottom, #F5E6D3 0%, #F9F9F9 100%)",
+					"name": "Creamy Beige to White"
+				},
+				{
+					"slug": "gradient-cocoa",
+					"gradient": "linear-gradient(to bottom, #B76E54 0%, #F9F9F9 100%)",
+					"name": "Cocoa Brown to White"
+				},
+				{
+					"slug": "gradient-light-bean",
+					"gradient": "linear-gradient(to bottom, #D1B88C 0%, #F9F9F9 100%)",
+					"name": "Light Coffee Bean to White"
+				},
+				{
+					"slug": "gradient-hazelnut",
+					"gradient": "linear-gradient(to bottom, #A26D54 0%, #F9F9F9 100%)",
+					"name": "Hazelnut to White"
+				},
+				{
+					"slug": "gradient-chocolate",
+					"gradient": "linear-gradient(to bottom, #5A3E32 0%, #F9F9F9 100%)",
+					"name": "Chocolate Brown to White"
+				},
+				{
+					"slug": "gradient-froth",
+					"gradient": "linear-gradient(to bottom, #F4E5D9 0%, #F9F9F9 100%)",
+					"name": "Milk Froth to White"
+				},
+				{
+					"slug": "gradient-nutty",
+					"gradient": "linear-gradient(to bottom, #A56B47 0%, #F9F9F9 100%)",
+					"name": "Nutty Brown to White"
+				}
+			],
+			"palette": [
+				{
+					"color": "#FFE9A7",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#717171",
+					"name": "Base / Two",
+					"slug": "base-2"
+				},
+				{
+					"color": "#172E44",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#539B9B",
+					"name": "Contrast / Two",
+					"slug": "contrast-2"
+				},
+				{
+					"color": "#F4F475",
+					"name": "Contrast / Three",
+					"slug": "contrast-3"
+				},
+				{
+					"color": "#f00a55",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				
+				{
+					"color": "#c2a990",
+					"name": "Accent / Two",
+					"slug": "accent-2"
+				},
+				{
+					"color": "#d8613c",
+					"name": "Accent / Three",
+					"slug": "accent-3"
+				},
+				{
+					"color": "#b1c5a4",
+					"name": "Accent / Four",
+					"slug": "accent-4"
+				}
+				
+			]
+		},
+		
+		
+		"typography": {
+			"fluid": true,
+			"fontFamilies": [
+			{
+				"slug": "adamina",
+				"name": "Adamina",
+				"fontFace": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": "400",
+						"fontFamily": "Adamina",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Adamina&display=swap')"
+						]
+					}
+				]
+			},
+			{
+				"slug": "aleo",
+				"name": "Aleo",
+				"fontFace": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": "400",
+						"fontFamily": "Aleo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Aleo:wght@400&display=swap')"
+						]
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "500",
+						"fontFamily": "Aleo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Aleo:wght@500&display=swap')"
+						]
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "600",
+						"fontFamily": "Aleo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Aleo:wght@600&display=swap')"
+						]
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "700",
+						"fontFamily": "Aleo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Aleo:wght@700&display=swap')"
+						]
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "800",
+						"fontFamily": "Aleo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Aleo:wght@800&display=swap')"
+						]
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "900",
+						"fontFamily": "Aleo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Aleo:wght@900&display=swap')"
+						]
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": "500",
+						"fontFamily": "Aleo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Aleo:wght@500&display=swap')"
+						]
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": "600",
+						"fontFamily": "Aleo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Aleo:wght@600&display=swap')"
+							
+						]
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": "700",
+						"fontFamily": "Aleo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Aleo:wght@700&display=swap')"
+							
+						]
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": "800",
+						"fontFamily": "Aleo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Aleo:wght@800&display=swap')"
+							
+						]
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": "900",
+						"fontFamily": "Aleo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Aleo:wght@900&display=swap')"
+							
+						]
+					}
+				]
+			},
+			{
+				"slug": "arvo",
+				"name": "Arvo",
+				"fontFace": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": "400",
+						"fontFamily": "Arvo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Arvo:wght@400&display=swap')"
+							
+						]
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "700",
+						"fontFamily": "Arvo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap')"
+							
+						]
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": "400",
+						"fontFamily": "Arvo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap')"
+							
+						]
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": "700",
+						"fontFamily": "Arvo",
+						"src": [
+							"url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap')"
+							
+						]
+					}
+				]
+			}
+		]
+        
+		},
+		"useRootPaddingAwareAlignments": true
+	}
+	
+			
+		
+	
+
+	
+}
