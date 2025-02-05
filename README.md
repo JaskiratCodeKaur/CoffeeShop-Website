@@ -1,7 +1,4 @@
 # CoffeeShop-Website
-
-# Coffee Shop Website
-
 A fully responsive, multi-page website developed for a fictional coffee shop. The website includes a custom WordPress theme, an interactive menu, blog system, Google Maps integration, event calendar, and a contact form. It ensures a seamless user experience across desktop and mobile devices.
 
 ## Technologies Used
