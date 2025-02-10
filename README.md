@@ -1,6 +1,7 @@
 <div align="center" style="margin: 40px 0">
 
 # ☕ Coffee Shop Website
+
 </div>
 
 <div align="center" style="margin-bottom: 50px; max-width: 800px; margin-left: auto; margin-right: auto">
@@ -8,8 +9,8 @@
 A fully responsive **multi-page WordPress website** for a modern coffee shop, featuring a custom theme, interactive menu, and seamless third-party integrations. Designed for optimal user experience across all devices.
 
 </div>
----
 
+---
 ## 🚀 Features
 
 ### Core Functionality
