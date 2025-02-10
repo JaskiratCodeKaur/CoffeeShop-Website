@@ -1,8 +1,4 @@
-# ☕ Coffee Shop Website
-
- 
-![WordPress](https://img.shields.io/badge/WordPress-✓-blue?logo=wordpress) 
-![Mobile-First](https://img.shields.io/badge/Mobile_First-Responsive-9cf) 
+## ☕ Coffee Shop Website
 
 A fully responsive **multi-page WordPress website** for a modern coffee shop, featuring a custom theme, interactive menu, and seamless third-party integrations. Designed for optimal user experience across all devices.
 
