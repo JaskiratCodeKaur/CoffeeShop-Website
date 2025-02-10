@@ -1,6 +1,5 @@
 # ☕ Coffee Shop Website | WordPress, PHP, JavaScript 
-
-![Project Preview](https://img.shields.io/badge/Live_Demo-September_2024-brightgreen) 
+ 
 ![WordPress](https://img.shields.io/badge/WordPress-✓-blue?logo=wordpress) 
 ![Mobile-First](https://img.shields.io/badge/Mobile_First-Responsive-9cf) 
 
