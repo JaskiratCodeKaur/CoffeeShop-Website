@@ -1,6 +1,7 @@
 <div align="center" style="margin: 40px 0">
 
 # ☕ Coffee Shop Website
+---
 
 </div>
 
@@ -10,7 +11,6 @@ A fully responsive **multi-page WordPress website** for a modern coffee shop, fe
 
 </div>
 
----
 
 ## 🚀 Features
 
