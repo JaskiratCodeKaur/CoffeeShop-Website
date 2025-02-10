@@ -51,7 +51,7 @@ A fully responsive **multi-page WordPress website** for a modern coffee shop, fe
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/CoffeeShop-Website.git
+git clone https://github.com/JaskiratCodeKaur/CoffeeShop-Website.git
 
 # 2. Move theme to WordPress
 cp -r CoffeeShop-Website/coffee-shop-theme /path/to/wordpress/wp-content/themes/
