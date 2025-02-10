@@ -1,4 +1,5 @@
-# ☕ Coffee Shop Website | WordPress, PHP, JavaScript 
+# ☕ Coffee Shop Website
+# WordPress, PHP, JavaScript 
  
 ![WordPress](https://img.shields.io/badge/WordPress-✓-blue?logo=wordpress) 
 ![Mobile-First](https://img.shields.io/badge/Mobile_First-Responsive-9cf) 
